@@ -7,7 +7,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "yarn build && yarn export"
+    "export": "yarn build && next export"
   },
   "keywords": [],
   "author": "",
